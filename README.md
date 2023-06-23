@@ -20,4 +20,4 @@ To deal with the problems I have in my projects, I use instructional videos abou
 
 Looking for a job in Krakow or remote work as a Junio Java Developer.
 Do you have a job at the company for me?
-Please contact me (p.larkowski90@gmail.com, https://www.linkedin.com/in/piotr-larkowski)😄
+Please contact me (EMail: p.larkowski90@gmail.com, LinkedIn: https://www.linkedin.com/in/piotr-larkowski)😄
