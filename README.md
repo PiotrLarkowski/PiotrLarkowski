@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello 👋
+My name is Piotr Larkowski and I am looking for a job in the IT industry.
+
+I am currently developing sample projects that can be found on my GitHub. (https://github.com/PiotrLarkowski)
+To deal with the problems I have in my projects, I use instructional videos about programming and read books.
+
+Looking for a job in Krakow or remote work as a Junio Java Developer.
+Do you have a job at the company for me?
+Please contact me 😄
